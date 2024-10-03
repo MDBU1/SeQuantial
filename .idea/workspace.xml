@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83f0da10-3993-4391-aa25-077bdee0b83f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LOGFILE_20241001_SeQuantial.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LOGFILE_20241003_SeQuantial.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/changelog.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/attributes/commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/attributes/commands.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/attributes/parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/attributes/parameters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequantial/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequantial/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequantial/logfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequantial/logfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sequantial/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/attributes/tg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations/reference.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/operations/reference.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,9 @@
         </option>
       </RecentBranches>
     </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="q9f7b0hi" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

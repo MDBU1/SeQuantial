@@ -2,6 +2,7 @@ from dataclasses import dataclass
 from pydantic import BaseModel, field_validator
 import datetime as dt
 
+
 class Order(BaseModel):
     id: int
     item_name: str
@@ -33,15 +34,11 @@ class ClassParameterRandomizer(BaseModel):
 
     @field_validator("str_ref_dna")
     def validate_str_ref_dna(cls, value, str) -> str:
+        # set characters not associated with DNA bases -> not allowed
         chars = set('qeiopfjlz,')
         if any((c.casefold() in chars) for c in value.casefold()):
             raise ValueError("Unidentified base character")
         return value
-
-
-
-
-
 
 # @dataclass
 # class ClassParameterRandomiser:

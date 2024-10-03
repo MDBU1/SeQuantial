@@ -1,0 +1,90 @@
+01/10/24 20:51:54
+INFO: logfile initiated: running SeQuantial
+
+01/10/24 20:51:54
+INFO: Namespace(logging_level='DEBUG', run_type=True, int_no_synthetic=10, boolean_weightings=False, type_weightings=None, path_weightings_csv=None, alt_base_inclusion=False, include_nonsense=None)
+
+01/10/24 20:51:54
+INFO: randomizer running input parameters:
+str_ref_dna='abx' int_ref_dna_length=3 int_number_synthetic=10 dict_segment_weightings=None dict_codon_conversion_weighting=None bool_dict_weightings=False bool_ambiguous=False bool_mixed=False bool_deletions=False bool_nonsense=True
+
+01/10/24 20:55:32
+INFO: logfile initiated: running SeQuantial
+
+01/10/24 20:55:32
+INFO: Namespace(logging_level='INFO', run_type=True, int_no_synthetic=10, boolean_weightings=False, type_weightings=None, path_weightings_csv=None, alt_base_inclusion=False, include_nonsense=None)
+
+01/10/24 20:55:32
+INFO: randomizer running input parameters:
+str_ref_dna='abx' int_ref_dna_length=3 int_number_synthetic=10 dict_segment_weightings=None dict_codon_conversion_weighting=None bool_dict_weightings=False bool_ambiguous=False bool_mixed=False bool_deletions=False bool_nonsense=True
+
+01/10/24 21:09:30
+INFO: logfile initiated: running SeQuantial
+
+01/10/24 21:09:30
+INFO: Namespace(logging_level='INFO', run_type=True, int_no_synthetic=10, boolean_weightings=False, type_weightings=None, path_weightings_csv=None, alt_base_inclusion=False, include_nonsense=None)
+
+01/10/24 21:09:30
+INFO: randomizer running input parameters:
+str_ref_dna='abx' int_ref_dna_length=3 int_number_synthetic=10 dict_segment_weightings=None dict_codon_conversion_weighting=None bool_dict_weightings=False bool_ambiguous=False bool_mixed=False bool_deletions=False bool_nonsense=True
+
+01/10/24 21:19:39
+INFO: logfile initiated: running SeQuantial
+
+01/10/24 21:19:39
+INFO: Namespace(logging_level='INFO', run_type=True, int_no_synthetic=10, boolean_weightings=False, type_weightings=None, path_weightings_csv=None, alt_base_inclusion=False, include_nonsense=None)
+
+01/10/24 21:19:39
+INFO: randomizer running input parameters:
+str_ref_dna='abx' int_ref_dna_length=3 int_number_synthetic=10 dict_segment_weightings=None dict_codon_conversion_weighting=None bool_dict_weightings=False bool_ambiguous=False bool_mixed=False bool_deletions=False bool_nonsense=True
+
+01/10/24 21:22:36
+INFO: logfile initiated: running SeQuantial
+
+01/10/24 21:22:36
+INFO: Namespace(logging_level='INFO', run_type=True, int_no_synthetic=10, boolean_weightings=False, type_weightings=None, path_weightings_csv=None, alt_base_inclusion=False, include_nonsense=None)
+
+01/10/24 21:22:36
+INFO: randomizer running input parameters:
+str_ref_dna='abx' int_ref_dna_length=3 int_number_synthetic=10 dict_segment_weightings=None dict_codon_conversion_weighting=None bool_dict_weightings=False bool_ambiguous=False bool_mixed=False bool_deletions=False bool_nonsense=True
+
+01/10/24 21:23:16
+INFO: logfile initiated: running SeQuantial
+
+01/10/24 21:23:16
+INFO: Namespace(logging_level='INFO', run_type=True, int_no_synthetic=10, boolean_weightings=False, type_weightings=None, path_weightings_csv=None, alt_base_inclusion=False, include_nonsense=None)
+
+01/10/24 21:23:16
+INFO: randomizer running input parameters:
+str_ref_dna='abx' int_ref_dna_length=3 int_number_synthetic=10 dict_segment_weightings=None dict_codon_conversion_weighting=None bool_dict_weightings=False bool_ambiguous=False bool_mixed=False bool_deletions=False bool_nonsense=True
+
+01/10/24 21:24:27
+INFO: logfile initiated: running SeQuantial
+
+01/10/24 21:24:27
+INFO: Namespace(logging_level='INFO', run_type=True, int_no_synthetic=10, boolean_weightings=False, type_weightings=None, path_weightings_csv=None, alt_base_inclusion=False, include_nonsense=None)
+
+01/10/24 21:24:27
+INFO: randomizer running input parameters:
+str_ref_dna='abx' int_ref_dna_length=3 int_number_synthetic=10 dict_segment_weightings=None dict_codon_conversion_weighting=None bool_dict_weightings=False bool_ambiguous=False bool_mixed=False bool_deletions=False bool_nonsense=True
+
+01/10/24 21:24:47
+INFO: logfile initiated: running SeQuantial
+
+01/10/24 21:24:47
+INFO: Namespace(logging_level='INFO', run_type=True, int_no_synthetic=10, boolean_weightings=False, type_weightings=None, path_weightings_csv=None, alt_base_inclusion=False, include_nonsense=None)
+
+01/10/24 21:24:47
+INFO: randomizer running input parameters:
+str_ref_dna='abx' int_ref_dna_length=3 int_number_synthetic=10 dict_segment_weightings=None dict_codon_conversion_weighting=None bool_dict_weightings=False bool_ambiguous=False bool_mixed=False bool_deletions=False bool_nonsense=True
+
+01/10/24 21:25:08
+INFO: logfile initiated: running SeQuantial
+
+01/10/24 21:25:08
+INFO: Namespace(logging_level='INFO', run_type=True, int_no_synthetic=10, boolean_weightings=False, type_weightings=None, path_weightings_csv=None, alt_base_inclusion=False, include_nonsense=None)
+
+01/10/24 21:25:08
+INFO: randomizer running input parameters:
+str_ref_dna='abx' int_ref_dna_length=3 int_number_synthetic=10 dict_segment_weightings=None dict_codon_conversion_weighting=None bool_dict_weightings=False bool_ambiguous=False bool_mixed=False bool_deletions=False bool_nonsense=True
+

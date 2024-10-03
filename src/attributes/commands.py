@@ -5,8 +5,8 @@ from typing import Any
 import pandas as pd
 import logging
 
-
 logger = logging.getLogger(__name__)
+
 
 def func_load_yaml_config() -> dict[str, Any]:
     """Load the yaml config file to use as argparse defaults"""
@@ -16,8 +16,8 @@ def func_load_yaml_config() -> dict[str, Any]:
     except FileNotFoundError:
         logger.error("config.yml not found in config directory")
         exit(1)
-        
-        
+
+
 def func_load_csv_config() -> dict[str, Any]:
     """Load the yaml config file to use as argparse defaults"""
     try:
@@ -27,9 +27,14 @@ def func_load_csv_config() -> dict[str, Any]:
         logger.error("config.csv not found in config directory")
         exit(1)
 
+
 # config = func_load_csv_config()
 
 def func_return_commands():
+    """
+
+    :return: args class containing user's input parameter selections
+    """
     parser = argparse.ArgumentParser(
         formatter_class=argparse.RawTextHelpFormatter
     )
@@ -39,7 +44,10 @@ def func_return_commands():
         dest="logging_level",
         type=str,
         choices=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"],
+        required=False,
+        default="DEBUG"
     )
+    # add a mutually exclusive group determining whether to call the dash gui or to expect terminal inputs
     group_run_type = parser.add_mutually_exclusive_group(
         required=True,
     )
